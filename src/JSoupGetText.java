@@ -1,5 +1,3 @@
-package org.jsoup.examples;
-
 import org.jsoup.Jsoup;
 
 import java.io.File;
